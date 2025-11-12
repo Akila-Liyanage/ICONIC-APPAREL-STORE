@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- 60-30-10 Color Rule Implementation -->
+
+    <!-- Primary Colors (60%) - Main backgrounds and dominant elements -->
+    <color name="primary_background">#F8F9FA</color>
+    <color name="white">#FFFFFF</color>
+    <color name="card_background">#FFFFFF</color>
+    <color name="secondary_background">#F2F2F7</color>
+
+    <!-- Secondary Colors (30%) - Supporting elements -->
+    <color name="navy_blue">#26326F</color>
+    <color name="dark_navy">#183449</color>
+    <color name="text_primary">#1C1C1E</color>
+    <color name="text_secondary">#8E8E93</color>
+
+    <!-- Accent Colors (10%) - Buttons, highlights, call-to-action -->
+    <color name="black">#000000</color>
+    <color name="accent_blue">#007AFF</color>
+    <color name="pure_white">#FFFFFF</color>
+
+
+
+    <!-- Additional Supporting Colors -->
+    <color name="banner_background">#E8F4FD</color>
+    <color name="transparent">#00000000</color>
+
+    <!-- Status Bar and System UI -->
+    <color name="status_bar_color">#F8F9FA</color>
+
+    <!-- Interactive States -->
+    <color name="selected_tab_background">#183449</color>
+    <color name="unselected_tab_background">#F2F2F7</color>
+    <color name="selected_tab_text">#FFFFFF</color>
+    <color name="unselected_tab_text">#1C1C1E</color>
+
+    <!-- Size Selection -->
+    <color name="size_selected">#007AFF</color>
+    <color name="size_unselected">#F2F2F7</color>
+    <color name="size_text_selected">#FFFFFF</color>
+    <color name="size_text_unselected">#1C1C1E</color>
+</resources>
